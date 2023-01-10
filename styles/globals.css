@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "ADELIA";
+  src: url("../public/fonts/ADELIA.otf");
+}
+
+@font-face {
+  font-family: "MomcakeBold";
+  src: url("../public/fonts/MomcakeBold.otf");
+}
+
+@font-face {
+  font-family: "MomcakeThin";
+  src: url("../public/fonts/MomcakeThin.otf");
+}
